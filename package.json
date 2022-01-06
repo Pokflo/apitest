@@ -2,7 +2,7 @@
   "name": "node-express-api-sample",
   "version": "1.0.0",
   "description": "A simple js api sample project",
-  "main": "index.js",
+  "main": "index.js", 
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
